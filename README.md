@@ -1,5 +1,5 @@
-# SQL-Odev1
-SQL-Odev1
+# SQL-Odev1 | SELECT | WHERE | Karşılaştırma ve Mantıksal Operatörler
+SQL-Odev1 | SELECT | WHERE | Karşılaştırma ve Mantıksal Operatörler
 
 www.patika.dev
 
